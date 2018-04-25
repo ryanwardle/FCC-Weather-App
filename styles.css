@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #232323;
+  color: #aaa;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 75px;
+  padding-top: 120px;
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+h2{
+  padding-bottom: 20px;
+}
+
+h3{
+  padding-bottom: 10px;
+}
+
+.measurement:hover,
+.measurement:active,
+.measurement:visited{
+  text-decoration: none;
+  color: #007bff;
+}
+
+i{
+  font-size: 70px;
+  padding-top: 30px;
+}

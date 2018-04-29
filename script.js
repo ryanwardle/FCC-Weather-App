@@ -33,7 +33,7 @@ $(document).ready(function(){
           }else if (description.includes('cloud') || description.includes('cast') || description.includes('fog')) {
             icon.classList.add('fa-cloud');
           }else {
-            incon.classList.add('fa-sun');
+            icon.classList.add('fa-sun');
           }
         });
 
